@@ -6,7 +6,7 @@ date: 2024-09-03
 
 # My full Vim journey - Neovim recommendations, Vim lessons, Vim in the browser and OS
 
-# The problem: Navigating a decentralized, innovative ecosystem
+## The problem: Navigating a decentralized, innovative ecosystem
 
 Vim was released in 1991. It's a legendary text editor that makes navigating and editing code easy and fast with very specific keyboard motions. Neovim is a fork of Vim which roughly means that some people took Vim and made something new out of it. Many coders today love using Neovim due to its many plugins and high customizability. You can write your own plugins or fork existing plugins and change them to your gusto.
 
@@ -16,7 +16,7 @@ The curse is that you need to find your way through the Neovim jungle. What plug
 
 The longer answer is: Read this blog article or watch the accompanying YouTube video.
 
-# tl;dw(atch) - too long; didn’t watch
+## tl;dw(atch) - too long; didn’t watch
 
 The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatever else. “I want to try Vim but I don’t know how to start.”
 
@@ -30,7 +30,7 @@ B) use a Neovim distribution, a so called “distro”. That is an out of the bo
 Vim-style navigation in the browser: Vimium in Chrome
 Vim-style navigation on OS: Fluent Search on Windows and yabai on Mac
 
-Why Vim? And what makes it so good?
+## Why Vim? And what makes it so good?
 
 Coding without Vim feels like working on code in Windows’ Word.
 
@@ -38,15 +38,13 @@ Coding with Vim feels like working on code with an editor that is specifically t
 
 Examples: efficient multi-line editing, quick navigation of complex codebases
 
-Where to use Vim?
-
-Distro or no? - The advantage of a distribution
+## Distro or building your own config?
 
 My clear recommendations are the following:
 
 Do you want to start with Vim and you’re on VS Code, a Jetbrains IDE or whatever else? Use the Vim mode in VS Code, IntelliJ etc. first to get a taste of Vim. If you like it and you want to continue to use it,
 
-Know why! Understand the concepts, don’t just memorize the motions.
+## Know why! Understand the concepts, don’t just memorize the motions
 
 So, don’t just memorize that ‘A’ is to go into insert mode at the end of a line. Understand that ‘a’ stands for ‘append’ which means “to add something to the end of a piece of writing” (Cambridge). You add something to the end of a line. That’s also why it’s called the Appendix of a book which is “a separate part at the end of a book or magazine that gives extra information” (Cambridge). You’ll notice the consistency of the keymapping when you dive into plugins. With neo-tree, a file manager, you can add files and directories simply with ‘a’ in the file explorer.
 
@@ -54,16 +52,12 @@ If you know this then other stuff in Vim or Neovim will make more sense to you. 
 
 Another example: In RegEx (Regular Expressions) $ indicates the end of the string. In Vim with $ in normal mode you jump to the end of a line. This stuff doesn’t happen by coincidence.
 
-Don’t spend too much time on learning tools. Get good at programming.
-
-Get good at touch typing. Practice daily for 10 minutes on a website like MonkeyType.
-
 Borrow from the right people
 Like this handy little command to edit all occurrences of a word in a file. I copied that one from a video from the Primeagen.
 
-Vim navigation in the Browser
+## Vim navigation in the Browser
 
 gg
 G
 
-Vim navigation on Windows/Apple/Linux
+## Vim navigation on Windows/Apple/Linux
