@@ -6,15 +6,7 @@ date: 2024-09-03
 
 # My full Vim journey - Neovim recommendations, Vim lessons, Vim in the browser and OS
 
-My full Vim journey - first steps, loving it, Neovim config or distro?, Vim in browser and OS
-
-My full Vim journey - where to start, Neovim config or distro?, advanced Vim usage, Vim in browser and OS
-
-Neovim recommendations, Vim lessons, Vim in the browser and OS
-
-My coding journey with Vim and Neovim - lessons learned, recommendations for beginners, Vim in browser and OS
-
-## The problem: Navigating a decentralized, innovative ecosystem
+# The problem: Navigating a decentralized, innovative ecosystem
 
 Vim was released in 1991. It's a legendary text editor that makes navigating and editing code easy and fast with very specific keyboard motions. Neovim is a fork of Vim which roughly means that some people took Vim and made something new out of it. Many coders today love using Neovim due to its many plugins and high customizability. You can write your own plugins or fork existing plugins and change them to your gusto.
 
@@ -28,10 +20,10 @@ The longer answer is: Read this blog article or watch the accompanying YouTube v
 
 The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatever else. “I want to try Vim but I don’t know how to start.”
 
-My answer:
+Here's my my suggestion for how to start and progress:
 
-Use Vim in VS Code, IntelliJ etc. to see if you like it.
-If you do,
+Use Vim in VS Code, IntelliJ or what ever your IDE is to see if you like it.
+If you do and you want the full Vim in Neovim experience, then
 A) build your own Neovim config if you’re an advanced programmer
 OR
 B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend LazyVim.
