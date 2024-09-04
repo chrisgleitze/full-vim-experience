@@ -4,4 +4,6 @@ permalink:
 date: 2024-09-03
 ---
 
-lorem ipsum
+# My full Vim journey
+
+First steps, loving it, Neovim config or distro?, Vim in browser and OS
