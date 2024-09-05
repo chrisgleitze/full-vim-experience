@@ -24,13 +24,13 @@ The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatev
 
 Here's my my suggestion for how to start and progress:
 
-Use Vim in VS Code, IntelliJ or what ever your current IDE is to see if you like it.
+Use [Vim in VS Code](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim), [IntelliJ](https://www.jetbrains.com/help/idea/using-product-as-the-vim-editor.html) or what ever your current IDE is to see if you like it.
 If you do and you want the full Vim in Neovim experience, then
 A) build your own Neovim config if you’re an advanced programmer
 OR
-B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend LazyVim.
-For efficient keyboard-only navigation in the browser: Vimium in Chrome
-For efficient keyboard-only navigation on OS: Fluent Search on Windows and yabai on Mac
+B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend [LazyVim](https://www.lazyvim.org/).
+For efficient keyboard-only navigation in the browser: [Vimium](https://vimium.github.io/) in Chrome and Firefox
+For efficient keyboard-only navigation on OS: [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac
 
 # Why Vim? And what makes it so good?
 
@@ -48,7 +48,7 @@ Do you want to start with Vim and you’re on VS Code, a Jetbrains IDE or whatev
 
 # Know why! Understand the concepts, don’t just memorize the motions
 
-So, don’t just memorize that ‘A’ is to go into insert mode at the end of a line. Understand that ‘a’ stands for ‘append’ which means “to add something to the end of a piece of writing” (Cambridge). You add something to the end of a line. That’s also why it’s called the Appendix of a book which is “a separate part at the end of a book or magazine that gives extra information” (Cambridge). You’ll notice the consistency of the keymapping when you dive into plugins. With neo-tree, a file manager, you can add files and directories simply with ‘a’ in the file explorer.
+So, don’t just memorize that ‘A’ is to go into insert mode at the end of a line. Understand that ‘a’ stands for ‘append’ which means “to add something to the end of a piece of writing” (Cambridge). You add something to the end of a line. That’s also why it’s called the Appendix of a book, “a separate part at the end of a book or magazine that gives extra information” (Cambridge). You’ll notice the consistency of the keymapping when you dive into plugins. With neo-tree, a file manager, you can add files and directories simply with ‘a’ in the file explorer. Once you're familiar with the underlying concepts, learning new plugins will get easier.
 
 If you know this then other stuff in Vim or Neovim will make more sense to you. You want to create a new file with the Neotree plugin? Click ‘a’ to add a file.
 
