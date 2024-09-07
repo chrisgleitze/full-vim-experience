@@ -6,7 +6,7 @@ date: 2024-09-03
 
 My Vim journey - Neovim recommendations, Vim lessons, Vim in the browser and OS
 
-Here I recommend how you can start you Vim journey and guide you through the
+Here I recommend how you can start your Vim journey, use Neovim and eventually use quick Vim-style navigation in the browser and Operation System (OS).
 
 # The problem: Navigating a decentralized, innovative ecosystem
 
