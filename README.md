@@ -56,9 +56,6 @@ If you know this then other stuff in Vim or Neovim will make more sense to you. 
 
 Another example: In RegEx (Regular Expressions) $ indicates the end of the string. In Vim with '$' in normal mode you jump to the end of a line. This stuff doesn’t happen by coincidence.
 
-Borrow from the right people
-Like this handy little command to edit all occurrences of a word in a file. I copied that one from a video from the Primeagen.
-
 # Vim navigation in the Browser
 
 gg
