@@ -19,7 +19,7 @@ Here's my suggestion for how to start and progress:
 - A) build your own Neovim config if you’re an advanced programmer
 - or B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend the [LazyVim](https://www.lazyvim.org/) distro.
 - For keyboard-only navigation in the browser use [Vimium](https://vimium.github.io/) in Chrome and Firefox.
-- For keyboard-only navigation on OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
+- For keyboard-only navigation on your OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
 
 ## The problem: Navigating a decentralized, innovative ecosystem
 
