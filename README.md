@@ -36,7 +36,7 @@ You'll encounter many such questions without a consensus on what the right answe
 
 Once you're used to coding with Vim, coding without Vim will feel like editing code in Word (yes, the Windows program). Coding with Vim feels like working on code with an editor that is specifically tailored to navigating and editing code efficiently, or any text for that matter. A legendary Vim book is called "Practical Vim: Edit Text at the Speed of Thought" by Drew Neil. The title hits the nail on the head: You can do with your text whatever comes to mind lightning fast.
 
-Examples: efficient multi-line editing, quick navigation of complex codebases
+Examples: efficient multi-line editing, quick navigation of big codebases
 
 # Distro or building your own config?
 
@@ -58,8 +58,10 @@ Another example: In RegEx (Regular Expressions) $ indicates the end of the strin
 
 # Vim navigation in the Browser
 
-Vim enthusiasts love using Vim as much as they can, so they want to use it in the browser as well. A popular way of how to navigate in Neovim is with the [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim) plugins. With the help of search labels you can quickly navigate to a specific location on your screen just by using your keyboard. The browser extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) let's you use search labels as well to navigate in the browser.
+Vim enthusiasts love using Vim as much as they can, so they want to use it in the browser as well. A popular way of navigating in Neovim is with the [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim) plugins. With the help of search labels you can quickly navigate to a specific location on your screen just by using your keyboard. The browser extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) let's you use search labels as well to navigate in the browser.
 
-With Vimium you can also quickly jump to the top or bottom of a website if you use 'gg' and 'G' just like you in Vim.
+With Vimium you can also quickly jump to the top or bottom of a website if you use 'gg' and 'G' just like you in Vim and search your browsing history and bookmarks with a fuzzy search. There's [plenty more](https://vimium.github.io/) handy Vim things you can do in the browser the Vim way.
 
 # Vim navigation on Windows/Apple/Linux
+
+If that wasn't enough, there's more Vim to be used in your developer experience. You can use keyboard-only navigation outside of your IDE and browser, e.g. your file explorer. The Vim community provides more than enough options for this use case as well. For Windows I use [Fluent Search](https://fluentsearch.net/) which is also an app launcher. For Mac I recommend [Homerow](https://www.homerow.app/).
