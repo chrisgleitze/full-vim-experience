@@ -4,19 +4,9 @@ permalink:
 date: 2024-09-03
 ---
 
-My Vim journey - Neovim recommendations, Vim lessons, Vim in the browser and OS
+Full Vim experience - starting with Vim, Neovim recommendations, Vim in the browser and OS
 
-Here I recommend how you can start your Vim journey, use Neovim and eventually use quick Vim-style navigation in the browser and Operation System (OS).
-
-# The problem: Navigating a decentralized, innovative ecosystem
-
-Vim was released in 1991. It's a legendary text editor that makes navigating and editing code easy and fast with very specific keyboard motions. Neovim is a fork of Vim which roughly means that some people took Vim and made something new out of it. They wanted Vim to be more customizable and extensible, so they made Neovim. You can write your own plugins or fork existing plugins and change them to your gusto.
-
-A decentralized information system like the one for Neovim is a blessing and a curse. The blessing is the innovation and wide variety of sources of information. Users come up with new, often easier ways of how to do something in the editor. And to understand Neovim you can read documentation, blog and reddit posts or watch videos on YouTube.
-
-The curse is that you need to find your way through the Neovim jungle. What plugin should I use to create and rename files? nvim-tree, Neotree or Oil? Or should I just use Vim’s built-in functionality for that and not use a plugin? The short answer is: You need to find out for yourself.
-
-The longer answer is: Read this blog article or watch the accompanying YouTube videos.
+This is my guide for the full Vim developer experience, so you can use Vim in the IDE, the browser and on your Operation System (OS).
 
 # tl;dr - just give me the summary
 
@@ -29,8 +19,18 @@ If you do and you want the full Vim in Neovim experience, then
 A) build your own Neovim config if you’re an advanced programmer
 OR
 B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend the [LazyVim](https://www.lazyvim.org/) distro.
-For efficient keyboard-only navigation in the browser use [Vimium](https://vimium.github.io/) in Chrome and Firefox.
-For efficient keyboard-only navigation on OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
+For keyboard-only navigation in the browser use [Vimium](https://vimium.github.io/) in Chrome and Firefox.
+For keyboard-only navigation on OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
+
+# The problem: Navigating a decentralized, innovative ecosystem
+
+Vim was released in 1991. It's a legendary text editor that makes navigating and editing code easy and fast with specific keyboard motions. Neovim is a fork of Vim which roughly means that some people took Vim and made something new out of it. They wanted Vim to be more customizable and extensible, so they made Neovim. You can write your own plugins or fork existing plugins and change them to your gusto.
+
+A decentralized information system like the one for Neovim is a blessing and a curse. The blessing is the innovation and wide variety of sources of information. Users come up with new, often easier ways of how to do something in the editor. And to understand Neovim you can read documentation, blog and Reddit posts or watch videos on YouTube.
+
+The curse is that you need to find your way through the Neovim jungle. What plugin should I use to create and rename files? nvim-tree, Neotree or Oil? Or should I just use Vim’s built-in functionality for that and not use a plugins?
+
+You'll encounter many such questions without a consensus on what the right answer is in the Neovim community and pretty much in any tech ecosystem.
 
 # Why Vim? And what makes it so good?
 
@@ -58,7 +58,8 @@ Another example: In RegEx (Regular Expressions) $ indicates the end of the strin
 
 # Vim navigation in the Browser
 
-gg
-G
+Vim enthusiasts love using Vim as much as they can, so they want to use it in the browser as well. A popular way of how to navigate in Neovim is with the [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim) plugins. With the help of search labels you can quickly navigate to a specific location on your screen just by using your keyboard. The browser extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) let's you use search labels as well to navigate in the browser.
+
+With Vimium you can also quickly jump to the top or bottom of a website if you use 'gg' and 'G' just like you in Vim.
 
 # Vim navigation on Windows/Apple/Linux
