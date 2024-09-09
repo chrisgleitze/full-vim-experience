@@ -18,9 +18,7 @@ Use [Vim in VS Code](https://marketplace.visualstudio.com/items?itemName=vscodev
 If you do and you want the full Vim in Neovim experience, then
 A) build your own Neovim config if you’re an advanced programmer
 OR
-
-# B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend the [LazyVim](https://www.lazyvim.org/) distro
-
+B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend the [LazyVim](https://www.lazyvim.org/) distro.
 For keyboard-only navigation in the browser use [Vimium](https://vimium.github.io/) in Chrome and Firefox.
 For keyboard-only navigation on OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
 
@@ -30,13 +28,13 @@ Vim was released in 1991. It's a legendary text editor that makes navigating and
 
 A decentralized information system like the one for Neovim is a blessing and a curse. The blessing is the innovation and wide variety of sources of information. Users come up with new, often easier ways of how to do something in the editor. And to understand Neovim you can read documentation, blog and Reddit posts or watch videos on YouTube.
 
-# The curse is that you need to find your way through the Neovim jungle. What plugin should I use to create and rename files? nvim-tree, Neotree or Oil? Or should I just use Vim’s built-in functionality for that and not use a plugins?
+The curse is that you need to find your way through the Neovim jungle. What plugin should I use to create and rename files? nvim-tree, Neotree or Oil? Or should I just use Vim’s built-in functionality for that and not use a plugins?
 
 You'll encounter many such questions without a consensus on what the right answer is in the Neovim community and pretty much in any tech ecosystem.
 
 ## Why Vim? And what makes it so good?
 
-# Once you're used to coding with Vim, coding without Vim will feel like editing code in Word (yes, the Windows program). Coding with Vim feels like working on code with an editor that is specifically tailored to navigating and editing code efficiently, or any text for that matter. A legendary Vim book is called "Practical Vim: Edit Text at the Speed of Thought" by Drew Neil. The title hits the nail on the head: You can do with your text whatever comes to mind lightning fast
+Once you're used to coding with Vim, coding without Vim will feel like editing code in Word (yes, the Windows program). Coding with Vim feels like working on code with an editor that is specifically tailored to navigating and editing code efficiently, or any text for that matter. A legendary Vim book is called "Practical Vim: Edit Text at the Speed of Thought" by Drew Neil. The title hits the nail on the head: You can do with your text whatever comes to mind lightning fast.
 
 Examples: efficient multi-line editing, quick navigation of big codebases
 
@@ -46,7 +44,7 @@ My recommendations are the following:
 
 Do you want to start with Vim and you’re on VS Code, a Jetbrains IDE etc.? Stay in your chosen editor. Use the Vim mode there first to get a taste of Vim. If you like it and you want to continue to use it, then you can think about starting to use Neovim.
 
-# If you do want to use Neovim, then you got two options: Build your own Neovim config or use a distro. I strongly recommend to build your own Neovim config only if you're an advanced programmer. Handling LSPs (Language Server Protocols) and auto-complete functionality can get quite complex and is not as straight forward to setup as you'd like it to be
+If you do want to use Neovim, then you got two options: Build your own Neovim config or use a distro. I strongly recommend to build your own Neovim config only if you're an advanced programmer. Handling LSPs (Language Server Protocols) and auto-complete functionality can get quite complex and is not as straight forward to setup as you'd like it to be.
 
 With a Neovim distro like NVChad, LunarVim, AstroVim or LazyVim you get everything you need and more out of the box. I recommend LazyVim as it's viewed as a new standard in the Neovim community and I can attest to how good it is because I use it myself. Careful: LazyVim is [a Neovim distro](https://www.lazyvim.org/) and lazy.nvim is [a Neovim plugin manager](https://github.com/folke/lazy.nvim) built by the same developer.
 
@@ -54,13 +52,13 @@ With a Neovim distro like NVChad, LunarVim, AstroVim or LazyVim you get everythi
 
 So, don’t just memorize that ‘A’ is to go into insert mode at the end of a line. Understand that ‘a’ stands for ‘append’ which means “to add something to the end of a piece of writing” (Cambridge). You add something to the end of a line. That’s also why it’s called the Appendix of a book, “a separate part at the end of a book or magazine that gives extra information” (Cambridge). You’ll notice the consistency of the Vim motions when you dive into plugins. E.g. with neo-tree, a file manager, you can add files and directories simply with ‘a’ in the file explorer. Once you're familiar with the underlying concepts, learning new plugins and advanced motions will get easier.
 
-# If you know this then other stuff in Vim or Neovim will make more sense to you. You want to create a new file with the Neotree plugin? Click ‘a’ to add a file
+If you know this then other stuff in Vim or Neovim will make more sense to you. Do you want to create a new file with the Neotree plugin? Click ‘a’ to add a file.
 
 Another example: In RegEx (Regular Expressions) $ indicates the end of the string. In Vim with '$' in normal mode you jump to the end of a line. This stuff doesn’t happen by coincidence.
 
 ## Vim navigation in the Browser
 
-# Vim enthusiasts love using Vim as much as they can, so they want to use it in the browser as well. A popular way of navigating in Neovim is with the [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim) plugins. With the help of search labels you can quickly navigate to a specific location on your screen just by using your keyboard. The browser extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) let's you use search labels as well to navigate in the browser
+Vim enthusiasts love using Vim as much as they can, so they want to use it in the browser as well. A popular way of navigating in Neovim is with the [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim) plugins. With the help of search labels you can quickly navigate to a specific location on your screen just by using your keyboard. The browser extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) let's you use search labels as well to navigate in the browser.
 
 With Vimium you can also quickly jump to the top or bottom of a website if you use 'gg' and 'G' just like you in Vim and search your browsing history and bookmarks with a fuzzy search. There's [plenty more](https://vimium.github.io/) handy Vim things you can do in the browser the Vim way.
 
