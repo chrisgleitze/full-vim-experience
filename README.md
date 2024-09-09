@@ -4,7 +4,9 @@ author: Chris
 date: 2024-09-03
 ---
 
-# The Full Vim developer experience - where to start using Vim, Neovim recommendations, Vim in the browser and OS
+# The Full Vim developer experiencewhere
+
+## Where to start using Vim, Neovim recommendations, Vim in the browser and OS
 
 This is my guide to the full Vim developer experience, so you can use Vim in the IDE, the browser and on your Operation System (OS).
 
