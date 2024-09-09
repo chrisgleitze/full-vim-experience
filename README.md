@@ -61,6 +61,6 @@ Vim enthusiasts love using Vim as much as they can, so they want to use it in th
 
 With Vimium you can also quickly jump to the top or bottom of a website if you use 'gg' and 'G' just like you in Vim and search your browsing history and bookmarks with a fuzzy search. There's [plenty more](https://vimium.github.io/) handy Vim things you can do in the browser the Vim way.
 
-## Vim navigation on Windows/Apple/Linux
+## Vim navigation on Windows and Apple devices
 
 If that wasn't enough, there's more Vim to be used in your developer experience. You can use keyboard-only navigation outside of your IDE and browser, e.g. your file explorer. The Vim community provides more than enough options for this use case as well. For Windows I use [Fluent Search](https://fluentsearch.net/) which is also an app launcher. For Mac I recommend [Homerow](https://www.homerow.app/).
