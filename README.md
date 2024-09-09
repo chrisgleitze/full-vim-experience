@@ -4,7 +4,7 @@ This is published as blog article [on my website](https://www.christiangleitze.c
 
 This is my guide to the full Vim developer experience, so you can use Vim in the IDE, the browser and on your Operation System (OS).
 
-## tl;dr - just give me the summary
+## tl;dr - the summary
 
 The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatever else. “I want to try Vim but I don’t know where to start.”
 
