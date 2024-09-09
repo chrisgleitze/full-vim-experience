@@ -1,6 +1,6 @@
 ---
 title: My Vim journey
-permalink:
+author: Chris
 date: 2024-09-03
 ---
 
