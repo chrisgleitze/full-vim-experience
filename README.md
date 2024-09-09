@@ -39,8 +39,6 @@ Examples: efficient multi-line editing, quick navigation of big codebases
 
 ## Distro or building your own config?
 
-My recommendations are the following:
-
 Do you want to start with Vim and you’re on VS Code, a Jetbrains IDE etc.? Stay in your chosen editor. Use the Vim mode there first to get a taste of Vim. If you like it and you want to continue to use it, then you can think about starting to use Neovim.
 
 If you do want to use Neovim, then you got two options: Build your own Neovim config or use a distro. I strongly recommend to build your own Neovim config only if you're an advanced programmer. Handling LSPs (Language Server Protocols) and auto-complete functionality can get quite complex and is not as straight forward to setup as you'd like it to be.
