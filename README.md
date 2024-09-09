@@ -1,3 +1,5 @@
+This is published as blog article [on my website](https://www.christiangleitze.com/articles/full-vim-experience) as well.
+
 # The full Vim developer experience
 
 This is my guide to the full Vim developer experience, so you can use Vim in the IDE, the browser and on your Operation System (OS).
