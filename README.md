@@ -6,7 +6,7 @@ This is my guide to the full Vim developer experience, so you can use Vim in the
 
 ## tl;dr - the summary
 
-The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatever else. “I want to try Vim but I don’t know where to start.”
+The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatever else. Now you're saying, “I want to try Vim but I don’t know where to start.”
 
 Here's my suggestion for how to start and progress:
 
