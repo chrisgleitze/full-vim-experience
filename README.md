@@ -2,7 +2,7 @@ This is published as blog article [on my website](https://www.christiangleitze.c
 
 # The full Vim developer experience
 
-This is my guide to the full Vim developer experience, so you can use Vim in the IDE, the browser and on your Operation System (OS).
+This is my guide to the full Vim developer experience, so you can use Vim in the IDE, know how to start with Neovim, use Vim the browser and on your Operation System (OS).
 
 ## tl;dr - the summary
 
@@ -11,7 +11,7 @@ The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatev
 Here's my suggestion for how to start and progress:
 
 - Use [Vim in VS Code](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim), [IntelliJ](https://www.jetbrains.com/help/idea/using-product-as-the-vim-editor.html) or whatever your current IDE is to see if you like it. If you do and you want the full Vim in Neovim experience, then
-- A) build your own Neovim config if you’re an advanced programmer or
+- A) build your own Neovim config (only if you’re an advanced programmer) or
 - B) use a Neovim distribution, a so called “distro”. That is an out of the box Neovim configuration that includes everything you need, so you can start coding right away. I highly recommend the [LazyVim](https://www.lazyvim.org/) distro.
 - For keyboard-only navigation in the browser use [Vimium](https://vimium.github.io/) in Chrome and Firefox.
 - For keyboard-only navigation on your OS use [Fluent Search](https://fluentsearch.net/) on Windows and [Homerow](https://www.homerow.app/) on Mac.
