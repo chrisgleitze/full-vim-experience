@@ -49,10 +49,10 @@ examples:
 
 understand that 'a' stands for 'append', meaning “to add something to the end of a piece of writing” (Cambridge)\
 add sth. to end of a line\
-create file with Neo-tree plugin\
+create file with Neo-tree plugin
 
 in RegEx $ indicates end of a string\
-use '$' in Vim to jump to the end of a line\
+use '$' in Vim to jump to the end of a line
 
 ## Vim navigation in the Browser
 
@@ -64,4 +64,5 @@ Chrome and Firefox extension [Vimium](https://chromewebstore.google.com/detail/v
 ## Vim navigation on Windows and Apple devices
 
 for Windows I use [Fluent Search](https://fluentsearch.net/)
+
 for Mac I recommend [Homerow](https://www.homerow.app/).
