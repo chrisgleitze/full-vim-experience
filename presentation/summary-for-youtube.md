@@ -3,7 +3,7 @@
 - use Vim in the IDE
 - know how to start with Neovim
 - use Vim the browser and
-- on your Operation System (OS).
+- on your Operation System (OS)
 
 ## tl;dr - the summary
 
