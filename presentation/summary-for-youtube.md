@@ -47,12 +47,12 @@ Or even still use a distro if you're an advanced programmer!
 
 examples:
 
-understand that 'a' stands for 'append', meaning “to add something to the end of a piece of writing” (Cambridge)/
-add sth. to end of a line/
-create file with Neo-tree plugin/
+understand that 'a' stands for 'append', meaning “to add something to the end of a piece of writing” (Cambridge)\
+add sth. to end of a line\
+create file with Neo-tree plugin\
 
-in RegEx $ indicates end of a string/
-use '$' in Vim to jump to the end of a line/
+in RegEx $ indicates end of a string\
+use '$' in Vim to jump to the end of a line\
 
 ## Vim navigation in the Browser
 
