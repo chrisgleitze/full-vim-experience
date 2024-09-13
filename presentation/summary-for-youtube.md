@@ -1,3 +1,9 @@
+A lot of specific info about single Vim and Neovim issues like plugin managers, LSPs etc.
+
+BUT not enough info about THE BIG PICTURE, the full Vim and Neovim roadmap!
+
+So, let me give you THE BIG PICTURE:
+
 # The full Vim developer experience
 
 - use Vim in the IDE
