@@ -17,7 +17,7 @@ The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatev
 ## The problem: Navigating a decentralized, innovative ecosystem
 
 Neovim is a fork of Vim
-goal: have Vim be more customizable and extensible
+goal: making Vim more customizable and extensible
 
 blooming ecosystem
 advantage: innovation and many sources of information

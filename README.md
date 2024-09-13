@@ -1,8 +1,10 @@
 This is published as blog article [on my website](https://www.christiangleitze.com/articles/full-vim-experience) as well.
 
-# The full Vim developer experience
+# Roadmap to the full Vim developer experience
 
-This is my guide to the full Vim developer experience, so you can use Vim in the IDE, know how to start with Neovim, use Vim the browser and on your Operation System (OS).
+There's a lot of specific info about single Vim and Neovim issues like plugin managers, LSPs, autocomplete functionality etc. but not enough info about THE BIG PICTURE - the full Vim and Neovim roadmap! So, let me give you THE BIG PICTURE.
+
+This is my guide to the full Vim developer experience, so you can use Vim in the IDE, know how to start with Neovim, use Vim in the browser and on your Operation System (OS).
 
 ## tl;dr - the summary
 
