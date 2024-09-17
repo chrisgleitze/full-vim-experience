@@ -25,18 +25,14 @@ disadvantage: finding your way through the Neovim jungle
 
 ## Why Vim? And what makes it so good?
 
-coding without Vim will feel like editing code in Word
-
 Vim is tailored to navigating and editing text as efficiently as possible
-"Practical Vim: Edit Text at the Speed of Thought" by Drew Neil
+
+coding without Vim will feel like editing code in Word
 
 Examples: efficient multi-line editing, quick navigation of big codebases
 
 ## Distro or building your own config?
 
-start using Vim in your current IDE
-
-if you like it:
 for advanced programmers: build your own Neovim config
 for beginners and intermediate p.: use distro
 
