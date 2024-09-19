@@ -16,11 +16,11 @@ The situation: You’re coding in an IDE like VS Code, IntelliJ, Emacs or whatev
 
 ## The problem: Navigating a decentralized, innovative ecosystem
 
-Neovim is a fork of Vim
+Neovim is a fork of Vim\
 goal: making Vim more customizable and extensible
 
-blooming ecosystem
-advantage: innovation and many sources of information
+blooming ecosystem\
+advantage: innovation and many sources of information\
 disadvantage: finding your way through the Neovim jungle
 
 ## Why Vim? And what makes it so good?
@@ -33,7 +33,7 @@ Examples: efficient multi-line editing, quick navigation of big codebases
 
 ## Distro or building your own config?
 
-for advanced programmers: build your own Neovim config
+for advanced programmers: build your own Neovim config\
 for beginners and intermediate p.: use distro
 
 Or even still use a distro if you're an advanced programmer!
@@ -53,7 +53,7 @@ use '$' in Vim to jump to the end of a line
 
 jumping with search labels
 
-plugins [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim)
+plugins [flash](https://github.com/folke/flash.nvim) and [leap](https://github.com/ggandor/leap.nvim)\
 Chrome and Firefox extension [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ## Vim navigation on Windows and Apple devices
