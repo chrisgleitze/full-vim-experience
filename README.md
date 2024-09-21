@@ -1,4 +1,4 @@
-This is published as blog article [on my website](https://www.christiangleitze.com/articles/full-vim-experience) as well.
+This is also published as blog article [on my website](https://www.christiangleitze.com/articles/full-vim-experience) and as a video [on YouTube](https://youtu.be/6x_e5zbnlRs).
 
 # Roadmap to the full Vim developer experience
 
